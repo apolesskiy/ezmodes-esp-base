@@ -1,0 +1,4 @@
+# ezmodes ESP Base Component Manifest
+dependencies:
+  idf:
+    version: ">=5.5.0"
