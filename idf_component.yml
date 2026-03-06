@@ -1,4 +1,8 @@
 # ezmodes ESP Base Component Manifest
+version: "0.1.0"
+description: "Modal one-button UI framework for ESP32 applications"
+url: "https://github.com/apolesskiy/ezmodes-esp-base"
+
 dependencies:
   idf:
     version: ">=5.5.0"
