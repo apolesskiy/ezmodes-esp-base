@@ -6,3 +6,4 @@ url: "https://github.com/apolesskiy/ezmodes-esp-base"
 dependencies:
   idf:
     version: ">=5.5.0"
+  espressif/esp_lvgl_port: "^2.4.0"
